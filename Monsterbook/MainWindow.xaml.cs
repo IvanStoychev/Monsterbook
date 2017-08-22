@@ -23,6 +23,7 @@ namespace Monsterbook
         public MainWindow()
         {
             InitializeComponent();
+            //creating repo
         }
     }
 }
